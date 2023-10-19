@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sswhizkidd
+- 👀 I’m interested in real-time web applications
+- 🌱 I’m currently learning CI/CD
+- 💞️ I’m looking to collaborate on documentation improvemennt and FE/BE testing 
+- 📫 How to reach me: request to schedule a zoom meet with me!
